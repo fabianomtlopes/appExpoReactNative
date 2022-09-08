@@ -1,4 +1,4 @@
-# Litle App 
+# Little App 
 
 ## Learning how to use Expo 
 
